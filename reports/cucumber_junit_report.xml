@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="DEF base tests" time="5011000" tests="1" failures="1" errors="0" skipped="0">
+    <testcase name="Create new Patent case record" classname="def-base-tests;create-new-patent-case-record" time="5011000">
+      <failure message="TypeError: this.attach is not a function&#xA;    at CustomWorld.&lt;anonymous> (d:\!! Work\STE Skills\!! Automation\!ATM (JS)\!ATM#8 2019q2\M#14 TA_Reporting\HW - GitHub\tests\features\step_definitions\hooks.js:15:10)&#xA;    at process._tickCallback (internal/process/next_tick.js:68:7)"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Query base tests" time="14644000" tests="4" failures="4" errors="0" skipped="0">
+    <testcase name="Run query of each IP Type" classname="query-base-tests;run-query-of-each-ip-type" time="3712000">
+      <failure message="TypeError: this.attach is not a function&#xA;    at CustomWorld.&lt;anonymous> (d:\!! Work\STE Skills\!! Automation\!ATM (JS)\!ATM#8 2019q2\M#14 TA_Reporting\HW - GitHub\tests\features\step_definitions\hooks.js:15:10)&#xA;    at process._tickCallback (internal/process/next_tick.js:68:7)"/>
+    </testcase>
+    <testcase name="Run query of each IP Type" classname="query-base-tests;run-query-of-each-ip-type" time="3627000">
+      <failure message="TypeError: this.attach is not a function&#xA;    at CustomWorld.&lt;anonymous> (d:\!! Work\STE Skills\!! Automation\!ATM (JS)\!ATM#8 2019q2\M#14 TA_Reporting\HW - GitHub\tests\features\step_definitions\hooks.js:15:10)&#xA;    at process._tickCallback (internal/process/next_tick.js:68:7)"/>
+    </testcase>
+    <testcase name="Run query of each IP Type" classname="query-base-tests;run-query-of-each-ip-type" time="3652000">
+      <failure message="TypeError: this.attach is not a function&#xA;    at CustomWorld.&lt;anonymous> (d:\!! Work\STE Skills\!! Automation\!ATM (JS)\!ATM#8 2019q2\M#14 TA_Reporting\HW - GitHub\tests\features\step_definitions\hooks.js:15:10)&#xA;    at process._tickCallback (internal/process/next_tick.js:68:7)"/>
+    </testcase>
+    <testcase name="Run query of each IP Type" classname="query-base-tests;run-query-of-each-ip-type" time="3653000">
+      <failure message="TypeError: this.attach is not a function&#xA;    at CustomWorld.&lt;anonymous> (d:\!! Work\STE Skills\!! Automation\!ATM (JS)\!ATM#8 2019q2\M#14 TA_Reporting\HW - GitHub\tests\features\step_definitions\hooks.js:15:10)&#xA;    at process._tickCallback (internal/process/next_tick.js:68:7)"/>
+    </testcase>
+  </testsuite>
+</testsuites>
